@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
 
 # Dependencies
 TARGET_RECOVERY_DEVICE_MODULES += \
-    libion
     libion \
     libfastboot
 
